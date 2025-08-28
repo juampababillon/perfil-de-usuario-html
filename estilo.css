@@ -1,6 +1,24 @@
+header {
+    text-align: center;
+    background-color: rgb(252, 251, 252);
+    color: rgb(1, 0, 0);
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;}
 body {
     background-color: rgb(244, 13, 13);
 }
+
+footer {
+    <!-- text-align: center-->;
+    background-color: rgb(252, 251, 252);
+    color: rgb(1, 0, 0);
+    padding: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    margin-top: 20px;
+}   
+
 #fotoriver {
     display: block;
     width: 12cm;
